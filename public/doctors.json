@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Dr. John Smith",
+    "id": 1,
+    "ratings": 4.5,
+    "location": "New York",
+    "img": "https://i.ibb.co/9hKv01q/Rectangle-15.png",
+    "rate": "$200",
+    "specialist": "Cardiology"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Emily Johnson",
+    "ratings": 4.8,
+    "location": "Los Angeles",
+    "img": "https://i.ibb.co/ZfBWQgn/Rectangle-15-2.png",
+    "rate": "$180",
+    "specialist": "Dermatology"
+  },
+  {
+    "id": 3,
+    "name": "Dr. David Wilson",
+    "ratings": 4.2,
+    "location": "Chicago",
+    "img": "https://i.ibb.co/cbzvdhN/Rectangle-15-1.png",
+    "rate": "$220",
+    "specialist": "Orthopedics"
+  }
+]
